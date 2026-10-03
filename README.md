@@ -1,8 +1,8 @@
 # d0nn-opsbyte
-# Hi, I'm Don 👋
+# Hi, I'm Brian 👋
 
 💻 Web Developer | React | JavaScript  
-📍 Nairobi, Kenya
+📍 Texas, USA
 
 ## Skills
 - React
